@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.apache.ws.commons.axiom</groupId>
         <artifactId>axiom-parent</artifactId>
-        <version>1.2.11-wso2v5</version>
+        <version>1.2.11-wso2v5-SNAPSHOT</version>
         <relativePath>../axiom-parent/pom.xml</relativePath>
     </parent>
     <artifactId>axiom-api</artifactId>
@@ -30,12 +30,6 @@
     <description>The Axiom API</description>
     <packaging>bundle</packaging>
     <!-- This needs to be set explicitly because the project structure implies that the Maven calculated defaults are wrong -->
-    <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/webservices/commons/tags/axiom/1.2.11/modules/axiom-api</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/webservices/commons/tags/axiom/1.2.11/modules/axiom-api</developerConnection>
-        <url>http://svn.apache.org/viewvc/webservices/commons/tags/axiom/1.2.11/modules/axiom-api</url>
-      <tag>axiom-1.2.11-wso2v5</tag>
-  </scm>
     <!-- This also needs to be set explicitly because the Maven calculated URL would point to nowhere -->
     <url>http://ws.apache.org/axiom/</url>
     <dependencies>
