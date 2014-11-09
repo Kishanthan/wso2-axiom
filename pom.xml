@@ -566,11 +566,11 @@
             <name>WSO2 Maven2 Snapshot Repository</name>
             <url>scp://dist.wso2.org/home/httpd/dist.wso2.org/snapshots/maven2/</url>
         </snapshotRepository>    --> 
-      <repository>
+      <!--repository>
         <id>wso2.releases</id>
         <name>WSO2 Release Distribution Repository</name>
         <url>http://maven.wso2.org/nexus/content/repositories/releases/</url>
-      </repository>
+      </repository-->
       <snapshotRepository>
         <id>wso2.snapshots</id>
         <name>Internal Releases</name>
