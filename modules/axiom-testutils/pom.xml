@@ -31,6 +31,11 @@
         Contains utility classes used by the test suites in Axiom.
     </description>
     <!-- This needs to be set explicitly because the project structure implies that the Maven calculated defaults are wrong -->
+<scm>
+    <developerConnection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</developerConnection>
+    <tag>HEAD</tag>
+</scm>
+
     <!-- This also needs to be set explicitly because the Maven calculated URL would point to nowhere -->
     <url>http://ws.apache.org/axiom/</url>
     <dependencies>
