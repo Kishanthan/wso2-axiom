@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.apache.ws.commons.axiom</groupId>
         <artifactId>axiom-parent</artifactId>
-        <version>1.2.11-wso2v5-SNAPSHOT</version>
+        <version>1.2.11-wso2v5</version>
         <relativePath>../axiom-parent/pom.xml</relativePath>
     </parent>
     <artifactId>axiom-impl</artifactId>
@@ -32,7 +32,7 @@
     <!-- This needs to be set explicitly because the project structure implies that the Maven calculated defaults are wrong -->
 <scm>
     <developerConnection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>axiom-1.2.11-wso2v5</tag>
 </scm>
 
     <!-- This also needs to be set explicitly because the Maven calculated URL would point to nowhere -->
