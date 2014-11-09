@@ -314,7 +314,7 @@
             <serverId>nexus-releases</serverId>
             <nexusUrl>http://localhost:8081/nexus/</nexusUrl>
             <!-- update this to the correct id! -->
-            <stagingProfileId>7b3ee339ed6</stagingProfileId>
+            <stagingProfileId>550aa271616</stagingProfileId>
         </configuration>
     </plugin>
            <!-- <plugin>
