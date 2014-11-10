@@ -478,6 +478,7 @@
         <stax.impl.artifact>wstx-asl</stax.impl.artifact>
         <stax.impl.version>3.2.9</stax.impl.version>
         <failIfNoTests>false</failIfNoTests>
+        <project.scm.id>github.com</project.scm.id>
         <!--
         <stax.impl.groupid>com.sun.xml.stream</stax.impl.groupid>
         <stax.impl.artifact>sjsxp</stax.impl.artifact>
