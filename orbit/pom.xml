@@ -308,7 +308,6 @@
         <javax.mail.version>1.4</javax.mail.version>
         <dom4j.version>1.6.1</dom4j.version>
         <maven.bundle.plugin.version>1.4.0</maven.bundle.plugin.version>
-        <project.scm.id>my-server-id</project.scm.id>
     </properties>
 
 </project>

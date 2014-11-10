@@ -33,7 +33,9 @@
     <url>http://ws.apache.org/axiom/</url>
 
     <scm>
+        <url>https://github.com/Kishanthan/wso2-axiom.git</url>
         <developerConnection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</developerConnection>
+        <connection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</connection>
     </scm>
   <!--  <issueManagement>
         <system>JIRA</system>
