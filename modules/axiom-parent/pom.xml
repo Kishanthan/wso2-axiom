@@ -224,11 +224,7 @@
             <email>jochen.wiedmann AT gmail.com</email>
         </contributor>
     </contributors>
-    <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/webservices/commons/tags/axiom/1.2.11/modules/axiom-parent</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/webservices/commons/tags/axiom/1.2.11/modules/axiom-parent</developerConnection>
-        <url>http://svn.apache.org/viewvc/webservices/commons/tags/axiom/1.2.11/modules/axiom-parent</url>
-    </scm>
+
     <build>
 
 	<extensions>

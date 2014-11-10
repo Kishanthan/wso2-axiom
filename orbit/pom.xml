@@ -31,9 +31,6 @@
     </description>
     <url>http://wso2.org</url>
 
-    <scm>
-        <developerConnection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</developerConnection>
-    </scm>
     <dependencies>
     
         <dependency>
