@@ -22,7 +22,7 @@
     <artifactId>axiom</artifactId>
     <packaging>bundle</packaging>
     <name>axiom.wso2</name>
-    <version>1.2.11.wso2v9-SNAPSHOT</version>
+    <version>1.2.11-wso2v9</version>
     <description>
         org.wso2.carbon.axiom. This bundle will contain all axiom
         releated packages. This also include xml-apis, xml-resolver,
