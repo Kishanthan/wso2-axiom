@@ -497,4 +497,8 @@
             <layout>default</layout>
         </pluginRepository>
     </pluginRepositories>
+
+  <scm>
+    <tag>wso2-axiom-1.2.11-wso2v9-rc3</tag>
+  </scm>
 </project>
