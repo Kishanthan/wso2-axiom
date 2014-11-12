@@ -247,7 +247,7 @@
              we can't use the project.version variable directly because of the dot. See
              http://maven.apache.org/plugins/maven-site-plugin/examples/creating-content.html -->
         <axiom_version>${project.version}</axiom_version>
-        <project.scm.id>my-server-id</project.scm.id>
+        <project.scm.id>my-server</project.scm.id>
     </properties>
 
      <build>
