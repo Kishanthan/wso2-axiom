@@ -36,7 +36,7 @@
         <url>https://github.com/Kishanthan/wso2-axiom.git</url>
         <developerConnection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</developerConnection>
         <connection>scm:git:https://github.com/Kishanthan/wso2-axiom.git</connection>
-      <tag>wso2-axiom-1.2.11-wso2v9-rc3</tag>
+      <tag>HEAD</tag>
   </scm>
   <!--  <issueManagement>
         <system>JIRA</system>
